@@ -13,7 +13,7 @@ this is my first repository
 
 1. list 3
 
-'''
+```
 
 ////||||||||||||
 
@@ -27,4 +27,4 @@ hbcv,xiykgr78gt 7jkvsdbvp ziyshrhgeryuagvb1234567
  |  0  __  0  |
  |     \/     |
  \___\_/\_/___/
- '''
+ ```
